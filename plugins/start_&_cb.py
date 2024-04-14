@@ -11,8 +11,8 @@ async def start(client, message):
     user = message.from_user
     await jishubotz.add_user(client, message)                
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton('〽️ Updates', url='https://t.me/FilmZone_Official'),
-        InlineKeyboardButton('Sᴜpport ♻️', url='https://t.me/FilmZone_talk')],
+        [InlineKeyboardButton('Updates 〽️', url='https://t.me/FilmZone_Official'),
+        InlineKeyboardButton('Support ♻️', url='https://t.me/FilmZone_talk')],
         [InlineKeyboardButton('About ⭕', callback_data='about'),
         InlineKeyboardButton('Help 🌸', callback_data='help')],
         [InlineKeyboardButton("Owner 🌙", url='https://t.me/Itzmecp')]
@@ -31,7 +31,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.START_TXT.format(query.from_user.mention),
             disable_web_page_preview=True,
             reply_markup = InlineKeyboardMarkup([
-                [InlineKeyboardButton('〽️ Updates', url='https://t.me/FilmZone_Official'),
+                [InlineKeyboardButton('Updates 〽️', url='https://t.me/FilmZone_Official'),
                 InlineKeyboardButton('Support ♻️', url='https://t.me/FilmZone_talk')],
                 [InlineKeyboardButton('About ⭕', callback_data='about'),
                 InlineKeyboardButton('Help 🌸', callback_data='help')],
@@ -43,7 +43,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=Txt.HELP_TXT,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("☘ Updates", url="https://t.me/FilmZone_Official")],
+                [InlineKeyboardButton("🔆 Updates", url="https://t.me/FilmZone_Official")],
                 [InlineKeyboardButton("🔒 Close", callback_data = "close"),
                 InlineKeyboardButton("◀️ Back", callback_data = "start")]
             ])            

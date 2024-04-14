@@ -26,27 +26,20 @@ class Config(object):
 
 class Txt(object):
     # part of text configuration
-    START_TXT = """Hello {} 👋 
+    START_TXT = """<b>✨ Hᴇʟʟᴏ {}  
+This Is An Advanced And Yet Powerful Rename Bot. ⭕
 
-➻ This Is An Advanced And Yet Powerful Rename Bot.
-
-➻ Using This Bot You Can Rename And Change Thumbnail Of Your Files.
-
-➻ You Can Also Convert Video To File And File To Video.
-
-➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
-
-<b>Bot Is Made By :</b> @Madflix_Bots"""
+Using This Bot You Can Rename And Change Thumbnail Of Your Files. ☘ This Bot Also Supports Custom Thumbnail And Custom Caption. 〽️
+Maintained By : <a href=https://t.me/Itzmecp>Itzmecp</a></b>"""
 
     ABOUT_TXT = """
 ╭───────────────⍟
-├<b>🤖 My Name</b> : {}
-├<b>🖥️ Developer</b> : <a href=https://t.me/Madflix_Bots>Madflix Botz</a> 
-├<b>👨‍💻 Programer</b> : <a href=https://t.me/MadflixOfficials>Jishu Developer</a>
-├<b>📕 Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
-├<b>✏️ Language</b> : <a href=https://www.python.org>Python 3</a>
-├<b>💾 Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
-├<b>📊 Build Version</b> : <a href=https://instagram.com/jishu.editz>Rename v4.5.0</a></b>     
+├<b>✯ My Name</b> : {}
+├<b>✯ Developer</b> : <a href=https://t.me/Itzmecp>Itzmecp</a> 
+├<b>✯ Library</b> : <a href=https://github.com/pyrogram>Pyrogram</a>
+├<b>✯ Language</b> : <a href=https://www.python.org>Python 3</a>
+├<b>✯ Database</b> : <a href=https://cloud.mongodb.com>Mongo DB</a>
+├<b>✯ Build Version</b> : <a href=https://t.me/FilmZone_official>Rename v4.5.0</a></b>     
 ╰───────────────⍟
 """
 
@@ -62,18 +55,15 @@ class Txt(object):
 ➪ /set_caption - Use This Command To Set A Custom Caption
 ➪ /see_caption - Use This Command To View Your Custom Caption
 ➪ /del_caption - Use This Command To Delete Your Custom Caption
-➪ Example - <code>/set_caption 📕 Name ➠ : {filename}
 
+⭕ Example - <code>/set_caption 📕 Name ➠ : {filename}
 🔗 Size ➠ : {filesize} 
-
 ⏰ Duration ➠ : {duration}</code>
 
-✏️ <b><u>How To Rename A File</u></b>
+〽️ <b><u>How To Rename A File</u></b>
 
-➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].           
-
-𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/MadflixOfficials>Developer</a>
-"""
+➪ Send Any File And Type New File Name And Select The Format [ Document, Video, Audio ].     
+<b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/Itzmecp>Itzmecp</a></b>"""
 
     PROGRESS_BAR = """\n
  <b>🔗 Size :</b> {1} | {2}
@@ -82,13 +72,15 @@ class Txt(object):
 ️ <b>⏰️ ETA :</b> {4}
 """
 
-    DONATE_TXT = """
-<b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
+    DONATE_TXT = """<b>Hey  there  I'm  Cp's  bot |° 🧚 🖤</b>
 
-If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
+<b>If You have Any problem ? Contact me On Telegram or WhatsApp ❤</b>
+<b>Thankyou For Using Itz Cp's Bots 💫</b>
 
-<b>🛍 UPI ID:</b> `madflixofficial@axl`
-"""
+<b>Contact on WhatsApp</b> 🌼 : <a href=https://wa.me/94765665354><b>Itzcp</b></a>
+<b>Contact on Telegram</b> 🌸 : <a href=https://t.me/Itzmecp><b>Itzmecp</b></a>
+
+<blockquote><a href=https://t.me/itzmecp><b>#FilmZone</b></a> | <a href=https://t.me/FilmZone_Official><b>@FilmZone_Official</b></a></blockquote>"""
 
 
 

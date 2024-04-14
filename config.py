@@ -56,7 +56,7 @@ Maintained By : <a href=https://t.me/Itzmecp>Itzmecp</a></b>"""
 ➪ /see_caption - Use This Command To View Your Custom Caption
 ➪ /del_caption - Use This Command To Delete Your Custom Caption
 
-⭕ Example - 
+<b>⭕ Example -</b> 
 <code>/set_caption 📕 Name ➠ : {filename}
 🔗 Size ➠ : {filesize} 
 ⏰ Duration ➠ : {duration}</code>
@@ -67,12 +67,12 @@ Maintained By : <a href=https://t.me/Itzmecp>Itzmecp</a></b>"""
 <b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href=https://t.me/Itzmecp>Itzmecp</a></b>"""
 
     PROGRESS_BAR = """\n
-╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
-┣⪼ <b>🗃️ Sɪᴢᴇ:{1} | {2}</b>
-┣⪼ <b>⏳️ Dᴏɴᴇ :{0}%</b>
-┣⪼ <b>🚀 Sᴩᴇᴇᴅ:{3}/s</b>
-┣⪼ <b>⏰️ Eᴛᴀ:{4}</b>
-╰━━━━━━━━━━━━━➣
+<b>╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣</b>
+<b>┣⪼ 🗃️ Sɪᴢᴇ: <code>{1}|{2}</code></b>
+<b>┣⪼ ⏳️ Dᴏɴᴇ : <code>{0}%</code></b>
+<b>┣⪼ 🚀 Sᴩᴇᴇᴅ: <code>{3}/s</code></b>
+<b>┣⪼ ⏰️ Eᴛᴀ : <code>{4}</code></b>
+<b>╰━━━━━━━━━━━━━➣</b>
 """
 
     DONATE_TXT = """<b>Hey  there  I'm  Cp's  bot |° 🧚 🖤</b>
